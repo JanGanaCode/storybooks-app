@@ -1,0 +1,24 @@
+{
+  "name": "storybooks-app",
+  "version": "1.0.0",
+  "description": "App to write public/private stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanGanaCode/storybooks-app.git"
+  },
+  "author": "Jan Gana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanGanaCode/storybooks-app/issues"
+  },
+  "homepage": "https://github.com/JanGanaCode/storybooks-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11"
+  }
+}
